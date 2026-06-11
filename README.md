@@ -1,3 +1,4 @@
+
 # Smart Alarm System for Home Berbasis Arduino
 
 Proyek ini merupakan sistem keamanan rumah pintar (Smart Home Security) berbasis mikrokontroler Arduino Uno. Sistem ini dirancang untuk mendeteksi berbagai jenis gangguan di area rumah serta menerapkan konsep logika digital dasar seperti gerbang OR, AND, dan SR Flip-Flop untuk mengunci status alarm.
@@ -80,7 +81,6 @@ Proyek ini dapat disimulasikan secara fisik maupun melalui platform simulator di
 ---
 
 ## Link Video Penjelasan Proyek
-Untuk melihat demonstrasi alat secara detail, penjelasan *flowchart*, serta visualisasi penerapan gerbang logikanya, silakan tonton video presentasi kami melalui tautan berikut:
 
-🔗 **[Tonton Video Penjelasan Smart Alarm System di YouTube]()**
-*(Link akan diperbarui setelah video diunggah)*
+🔗 **[Tonton Video Demonstrasi Smart Alarm System di YouTube](https://youtu.be/MRrha3BnBXA?si=Yhc8KTDs31Bp85C9)**
+🔗 **[Tonton Video Penjelasan Smart Alarm System di YouTube](https://youtu.be/kigYO6OmLR4?si=uF8rCIbGxr3j3F2l)**
